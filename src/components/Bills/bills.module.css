@@ -1,0 +1,28 @@
+.yourbills{
+  font-size: 10px;
+  margin: 10px;
+}
+.bills{
+  font-size: 10px;
+  margin: 10px;
+  display: flex;
+}
+.card{
+  background-color: #ffff;
+  width: 170px;
+  height: 160px;
+  padding: 15px;
+  border-radius: 10px;
+  font-size: 10px;
+  align-items: center;
+  margin: 15px;
+}
+.card button{
+  background-color: none;
+}
+.card h2{
+  font-weight: bolder;
+}
+.card ol{
+  font-size: 12px;
+}
